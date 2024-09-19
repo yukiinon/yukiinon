@@ -4,23 +4,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Hellooo!!;+I'm+Andika+Kamaluddin;+I+Like+To+Sleep" alt="Typing SVG" /></a>
 </h1>
 
-<br/>
 
-<div align="center">
-	<h3 align="left">Connect with me:</h3>
-	<p align="left">
-	    <a href="[https://www.linkedin.com/in/andika-kamaluddin/](https://www.linkedin.com/in/andika-kamaluddin-19046b329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
-	    <a href="https://www.instagram.com/nightwhirl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nightwhirl/" height="30" width="40" /></a>
-	</p>
-</div>
-
-<br>
-<hr>
 
 ## Activity and Statistics
 <p align="center">
 	<br/> &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiinon&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="yukii" height="150em"/>
+  	<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiinon&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="yukii" height="150em"/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiinon&theme=transparent&show_icons=true&hide_border=false&layout=donut" alt="yukii" height="150em"/>
 </p>
 
@@ -28,6 +17,8 @@
 	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=yukiinon&theme=transparent&hide_border=false&fire=EBA108" alt="yukii" height="150em"/>
 </div>
+
+
 
 
 
