@@ -9,7 +9,7 @@
 ## Activity and Statistics
 <p align="center">
 	<br/> &nbsp;
-  	<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiinon&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="yukii" height="150em"/>
+  	<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiinon&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="yukii" height="150em"/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiinon&theme=transparent&show_icons=true&hide_border=false&layout=donut" alt="yukii" height="150em"/>
 </p>
 
