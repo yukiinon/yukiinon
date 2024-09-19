@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yukiinon1&label=Profile%20views&color=0e75b6&style=flat" alt="kamal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yukiinon1&label=Profile%20views&color00FFFF&style=flat" alt="kamal" /> </p>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Hellooo!!;+I'm+Andika+Kamaluddin;+I+Like+To+Sleep" alt="Typing SVG" /></a>
@@ -17,6 +17,10 @@
 	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=yukiinon&theme=transparent&hide_border=false&fire=EBA108" alt="yukii" height="150em"/>
 </div>
+
+
+
+
 
 
 
