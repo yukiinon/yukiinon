@@ -26,7 +26,7 @@
 ## GitHub Profile Summary Cards
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukiinon&theme=github_dark" alt="GitHub Profile Summary Cards">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukiinon&theme=transparent" alt="GitHub Profile Summary Cards">
 </p>
 
 </div>
