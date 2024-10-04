@@ -20,8 +20,9 @@
 ## Visitors
 
 <p align="center">
-<img src="https://count.getloli.com/get/@yukiinon-github-readme?theme=rule34" alt="Visitors">
+  <img src="https://count.getloli.com/get/@yukiinon?theme=moebooru" alt="Visitors">
 </p>
+
 
 ## GitHub Profile Summary Cards
 
