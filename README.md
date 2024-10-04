@@ -20,7 +20,7 @@
 ## Visitors
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@yukiinon?theme=moebooru" alt="Visitors">
+  <img src="https://count.getloli.com/get/@yukiinon?theme=asoul" alt="Visitors">
 </p>
 
 
